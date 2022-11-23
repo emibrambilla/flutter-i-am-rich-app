@@ -1,4 +1,4 @@
-#Wed Nov 23 22:10:22 CET 2022
+#Wed Nov 23 22:33:06 CET 2022
 base.0=/Users/emibrambilla/Downloads/flutter-i-am-rich-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
